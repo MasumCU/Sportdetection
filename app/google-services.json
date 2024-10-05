@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959392427850",
+    "project_id": "sportsdetect",
+    "storage_bucket": "sportsdetect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959392427850:android:a9d5c21362f6952f311bb3",
+        "android_client_info": {
+          "package_name": "com.example.sportsdetect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAnfC0u66F9kb8M2aMrjX0UpAiKA7zpco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

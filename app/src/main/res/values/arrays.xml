@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="districts_array">
+        <item>Mymensingh</item>
+        <item>Dhaka</item>
+        <item>Chattogram</item>
+        <item>Sylhet</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Rangpur</item>
+        <item>Barishal</item>
+        <!-- Add more district items as needed -->
+    </string-array>
+</resources>
